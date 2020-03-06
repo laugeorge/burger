@@ -1,6 +1,6 @@
 -- Create the database
-CREATE DATABASE burgers_db;
-USE `burgers_db`;
+CREATE DATABASE sexgs4todoveo3p9;
+USE `sexgs4todoveo3p9`;
 
 -- Create the table burgers
 CREATE TABLE `burgers`
