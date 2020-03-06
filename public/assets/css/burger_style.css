@@ -1,11 +1,16 @@
 body {
-    background-color: #00ccff;
+    background-color: #0B0B61;
   }
   
-  .jumbotron h1{
-      color: #ff33cc;
+  .jumbotron h1 {
+      color: #BFFF00;
   
   }
+
+  .jumbotron p {
+    color: #BFFF00;
+
+}
   
   .jumbotron{
       padding-top: 1%;
@@ -18,6 +23,6 @@ body {
   }
   
   .submitFont{
-      color: green;
+      color: #BFFF00;
   }
   
