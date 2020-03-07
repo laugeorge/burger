@@ -2,7 +2,7 @@
 
 ## Preview
 
-![App Preview](https://github.com/laugeorge/burger/blob/master/public/assets/img/snapshot.JPG)
+![App Preview](https://github.com/laugeorge/burger/tree/master/public/assets/img/snapshot.jpg)
 
 ## Intro and Instruction
 A burger logging app that let user type in their favorite burger. When the user submits a burger's name, the app will display the burger on the left side of the page as well as generating a devour button. When user clicks the devour button, the burger will be move to the right.  
